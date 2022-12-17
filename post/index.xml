@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://curegao.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Dec 2022 14:27:53 +0800</lastBuildDate><atom:link href="https://curegao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://curegao.github.io/post/blog/</link>
+      <pubDate>Sat, 17 Dec 2022 14:27:53 +0800</pubDate>
+      
+      <guid>https://curegao.github.io/post/blog/</guid>
+      <description>一.git仓库 2.安装git
+2.配置用户名和邮件
+3.配置git的私钥
+4.链接到github仓库
+5.在github上创建仓库
+6.将本地仓库与远程仓库链接并上传文件
+二.socket编写
+1.服务端代码
+2.客户端代码
+3.运行结果</description>
+    </item>
+    
+  </channel>
+</rss>
